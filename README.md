@@ -10,5 +10,7 @@ domain = ''
 "ID,Token"; see 详见 https://docs.dnspod.cn/account/dnspod-token/
 
 ```
-login_token = '181628,d59e134fbc1a89a61ee8512daaacda8a'
+login_token = '123212,saasdadasdsaddqwdqwdqwdqwdqwqwd'
 ```
+
+建议加入crontab等定时任务
